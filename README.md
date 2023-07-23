@@ -1,6 +1,5 @@
 # Datenschutz_IslamQuiz
 
-Datenschutzrichtlinie für Facebook-Entwickler
 
 Stand: 23.07.2023
 
